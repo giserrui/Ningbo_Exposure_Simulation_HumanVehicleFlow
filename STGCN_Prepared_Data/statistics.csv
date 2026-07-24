@@ -1,0 +1,2 @@
+﻿n_nodes,n_timesteps,n_days,n_hours_per_day,n_built_env_features,n_syntax_features,n_static_features,adjacency_edges,adjacency_density,carbon_mean_raw,carbon_std_raw,carbon_min_raw,carbon_max_raw,speed_mean_raw,speed_std_raw,speed_min_raw,speed_max_raw
+521,120,5,24,10,16,26,179,0.0032382727738256194,2499.99462890625,4800.515625,1.5499999523162842,54956.1015625,37.0289421081543,11.426863670349121,5.0,105.0
